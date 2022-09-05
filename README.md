@@ -5,7 +5,6 @@
 
 1-Install
 Install with pip: $ pip install pyjokes
-
 2-import pyjokes
 3-print(pyjokes.get_joke())
 
